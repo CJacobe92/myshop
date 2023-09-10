@@ -1,0 +1,39 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/cjacobe/BE_Development/myshop/app/models/seller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          21,
+          null,
+          null
+        ]
+      },
+      "/home/cjacobe/BE_Development/myshop/app/models/user.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/cjacobe/BE_Development/myshop/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1694325176
+  }
+}
